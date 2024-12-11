@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Peter Henggeler</h1>
+<h1 align="center">Hi there 👋, I'm Peter</h1>
 <h3 align="center">Security Architecture | Senior Security Engineer | Compliance Expertise </h3>
 
 <p align="left"> 
